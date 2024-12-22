@@ -175,7 +175,8 @@ document.addEventListener('DOMContentLoaded', () => {
         "Developer",
         "xalphabet.dev",
         "Volleyball",
-        "You :)"
+        "You :)",
+        "depressed lowkey"
     ];
 
     let sequenceIndex = 0;
