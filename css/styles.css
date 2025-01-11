@@ -1,9 +1,9 @@
 :root {
-    --bg-color: #000000;
-    --text-color: #ffffff;
+    --bg-color: #05bbbe;
+    --text-color: #025355;
     --accent-color: #1a1a1a;
-    --glow-color: rgba(255, 255, 255, 0.3);
-    --blue-glow: rgba(0, 162, 255, 0.3);
+    --glow-color: rgba(8, 251, 255, 0.3);
+    --blue-glow: rgba(105, 243, 255, 0.766);
 }
 
 * {
